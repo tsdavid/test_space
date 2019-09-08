@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6aa4d56-8013-442e-9cf2-78f0bf4cd9f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/distributed_computing/celery/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed_computing/rabbit/receive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distributed_computing/rabbit/send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/block_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/candidate_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/eat_tv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/fail_rate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/find_route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/matching_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/open_chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/18/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/1/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/2/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/3/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/4/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/5/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/6/test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/20/7/test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/greed/joystick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/hash/best_album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/hash/cover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/hash/telephone_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/hash/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/hash/uncomplited_player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/search/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/sorting/H-Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/sorting/big_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/sorting/number_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/stackandque/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kakao_blind/programmers/stackandque/printer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psc_user_info/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psc_user_info/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distributed_computing/greeting-client.py" beforeDir="false" afterPath="$PROJECT_DIR$/distributed_computing/pyro/greeting-client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distributed_computing/greeting-server.py" beforeDir="false" afterPath="$PROJECT_DIR$/distributed_computing/pyro/greeting-server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,41 +42,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/test_space$greeting_server.coverage" NAME="greeting-server Coverage Results" MODIFIED="1561895567000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing" />
+    <SUITE FILE_PATH="coverage/test_space$open_chat.coverage" NAME="open_chat Coverage Results" MODIFIED="1566393161641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/19" />
+    <SUITE FILE_PATH="coverage/test_space$eat_tv.coverage" NAME="eat_tv Coverage Results" MODIFIED="1566445421996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/19" />
+    <SUITE FILE_PATH="coverage/test_space$test.coverage" NAME="test Coverage Results" MODIFIED="1567070970585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/hash" />
+    <SUITE FILE_PATH="coverage/test_space$telephone_book.coverage" NAME="telephone_book Coverage Results" MODIFIED="1566895482246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/hash" />
     <SUITE FILE_PATH="coverage/test_space$send.coverage" NAME="send Coverage Results" MODIFIED="1562046345444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing/rabbit" />
-    <SUITE FILE_PATH="coverage/test_space$greeting_client.coverage" NAME="greeting-client Coverage Results" MODIFIED="1561894587569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing" />
+    <SUITE FILE_PATH="coverage/test_space$H_Index.coverage" NAME="H-Index Coverage Results" MODIFIED="1567068133225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
+    <SUITE FILE_PATH="coverage/test_space$number_k.coverage" NAME="number_k Coverage Results" MODIFIED="1566995553850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
+    <SUITE FILE_PATH="coverage/test_space$cover.coverage" NAME="cover Coverage Results" MODIFIED="1566957045181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/hash" />
+    <SUITE FILE_PATH="coverage/test_space$big_number.coverage" NAME="big_number Coverage Results" MODIFIED="1567043540982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
     <SUITE FILE_PATH="coverage/test_space$receive.coverage" NAME="receive Coverage Results" MODIFIED="1562046340239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing/rabbit" />
+    <SUITE FILE_PATH="coverage/test_space$fail_rate.coverage" NAME="fail_rate Coverage Results" MODIFIED="1566384012896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind" />
+    <SUITE FILE_PATH="coverage/test_space$greeting_server.coverage" NAME="greeting-server Coverage Results" MODIFIED="1561895567000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing" />
+    <SUITE FILE_PATH="coverage/test_space$uncomplited_player.coverage" NAME="uncomplited_player Coverage Results" MODIFIED="1566874534635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/programmers/hash" />
+    <SUITE FILE_PATH="coverage/test_space$candidate_key.coverage" NAME="candidate_key Coverage Results" MODIFIED="1566386252748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind" />
+    <SUITE FILE_PATH="coverage/test_space$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1567843923067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kakao_blind/20/7" />
+    <SUITE FILE_PATH="coverage/test_space$greeting_client.coverage" NAME="greeting-client Coverage Results" MODIFIED="1561894587569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distributed_computing" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed_computing/celery/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/best_album.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1567">
+              <caret line="168" column="60" selection-start-line="168" selection-start-column="60" selection-end-line="168" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/send.py">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/1/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="281">
+              <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/2/test2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/3/test3.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/receive.py">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/4/test4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="168">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="73" selection-end-column="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/5/test5.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/6/test6.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kakao_blind/20/7/test7.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -61,6 +121,17 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>try_list</find>
+      <find>k</find>
+      <find>zip</find>
+      <find>answersA</find>
+      <find>target_num</find>
+      <find>max_iter</find>
+      <find>lst</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,15 +144,49 @@
         <option value="$PROJECT_DIR$/distributed_computing/celery/README.md" />
         <option value="$PROJECT_DIR$/distributed_computing/rabbit/send.py" />
         <option value="$PROJECT_DIR$/distributed_computing/rabbit/receive.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/fail_rate.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/candidate_key.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/19/open_chat.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/19/README.md" />
+        <option value="$PROJECT_DIR$/kakao_blind/19/fail_rate.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/19/eat_tv.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/greed/joystick.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/hash/uncomplited_player.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/hash/telephone_book.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/hash/cover.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/hash/best_album.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/sorting/number_k.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/sorting/big_number.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/hash/test.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/sorting/H-Index.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/search/test.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/find_route.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/matching_score.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/candidate_key.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/fail_rate.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/open_chat.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/block_game.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/18/test.py" />
+        <option value="$PROJECT_DIR$/psc_user_info/README.md" />
+        <option value="$PROJECT_DIR$/psc_user_info/main.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/stackandque/README.md" />
+        <option value="$PROJECT_DIR$/kakao_blind/programmers/stackandque/printer.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/20/1/test.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/20/7/test7.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/20/1/test1.py" />
+        <option value="$PROJECT_DIR$/kakao_blind/20/4/test4.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="width" value="795" />
-    <option name="height" value="425" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -97,13 +202,68 @@
             <path>
               <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_space" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed_computing" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_space" type="462c0819:PsiDirectoryNode" />
-              <item name="distributed_computing" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbit" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_space" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_space" type="462c0819:PsiDirectoryNode" />
+              <item name="kakao_blind" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,11 +274,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ipack\test_space\kakao_blind\20\7" />
+      <recent name="C:\Users\ipack\test_space\kakao_blind\20\6" />
+      <recent name="C:\Users\ipack\test_space\kakao_blind\20\5" />
+      <recent name="C:\Users\ipack\test_space\kakao_blind\20\4" />
+      <recent name="C:\Users\ipack\test_space\kakao_blind\20\3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ipack\test_space\kakao_blind\19" />
+      <recent name="C:\Users\ipack\test_space\kakao_blind" />
       <recent name="C:\Users\ipack\test_space\distributed_computing\pyro" />
     </key>
   </component>
@@ -134,8 +304,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.send">
-    <configuration name="greeting-client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test7">
+    <configuration name="H-Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +313,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed_computing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ipack\test_space\distributed_computing\pyro\greeting-client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao_blind/programmers/sorting/H-Index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greeting-server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="big_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +335,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed_computing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\ipack\test_space\distributed_computing\pyro\greeting-server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao_blind/programmers/sorting/big_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +349,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="receive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_k" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +357,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed_computing/rabbit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao_blind/programmers/sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed_computing/rabbit/receive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao_blind/programmers/sorting/number_k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="send" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_space" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +379,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/distributed_computing/rabbit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao_blind/programmers/hash" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributed_computing/rabbit/send.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao_blind/programmers/hash/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_space" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao_blind/20/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao_blind/20/7/test7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,10 +417,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.send" />
-        <item itemvalue="Python.receive" />
-        <item itemvalue="Python.greeting-server" />
-        <item itemvalue="Python.greeting-client" />
+        <item itemvalue="Python.test7" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.H-Index" />
+        <item itemvalue="Python.big_number" />
+        <item itemvalue="Python.number_k" />
       </list>
     </recent_temporary>
   </component>
@@ -243,33 +436,55 @@
       <option name="presentableId" value="Default" />
       <updated>1561891649740</updated>
       <workItem from="1561891650989" duration="5556000" />
-      <workItem from="1562035022405" duration="6434000" />
+      <workItem from="1562035022405" duration="7110000" />
+      <workItem from="1562059639946" duration="23000" />
+      <workItem from="1562115812208" duration="2124000" />
+      <workItem from="1562152013150" duration="1202000" />
+      <workItem from="1562202966241" duration="3102000" />
+      <workItem from="1562288923138" duration="1200000" />
+      <workItem from="1562393286515" duration="1245000" />
+      <workItem from="1562700803807" duration="13000" />
+      <workItem from="1566353285340" duration="17436000" />
+      <workItem from="1566392054067" duration="910000" />
+      <workItem from="1566393040594" duration="738000" />
+      <workItem from="1566435995099" duration="404000" />
+      <workItem from="1566436419599" duration="17982000" />
+      <workItem from="1566536952537" duration="40012000" />
+      <workItem from="1566991035171" duration="5175000" />
+      <workItem from="1567038334794" duration="37311000" />
+      <workItem from="1567232406548" duration="852000" />
+      <workItem from="1567476296574" duration="6171000" />
+      <workItem from="1567488281984" duration="11971000" />
+      <workItem from="1567577363879" duration="1280000" />
+      <workItem from="1567643644655" duration="1687000" />
+      <workItem from="1567749426366" duration="3285000" />
+      <workItem from="1567826876913" duration="19982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11990000" />
+    <option name="totallyTimeSpent" value="186771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15348525" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24865952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861878" weight="0.37677053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33002833" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.31586403" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3838527" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49865952" visible="true" weight="0.31586403" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -277,6 +492,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="7" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +520,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/receive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/send.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/distributed_computing/celery/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -314,17 +544,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/send.py">
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/greed/joystick.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="564">
+          <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/distributed_computing/rabbit/receive.py">
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/uncomplited_player.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="94" selection-start-line="2" selection-start-column="94" selection-end-line="2" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/-1043580651/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="278" column="4" selection-start-line="278" selection-start-column="4" selection-end-line="278" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/cover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3033">
+          <caret line="902" column="50" selection-start-line="902" selection-start-column="49" selection-end-line="902" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/sorting/H-Index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/sorting/big_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/sorting/number_k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/telephone_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="83" column="67" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/find_route.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/matching_score.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/candidate_key.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/fail_rate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/eat_tv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/search/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/open_chat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/-1043580651/numpy/core/_multiarray_umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11962" column="4" lean-forward="true" selection-start-line="11962" selection-start-column="4" selection-end-line="11962" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/block_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="173" column="32" selection-start-line="173" selection-start-column="32" selection-end-line="173" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psc_user_info/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psc_user_info/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="16">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/18/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/stackandque/printer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/stackandque/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="16">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/programmers/hash/best_album.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1567">
+          <caret line="168" column="60" selection-start-line="168" selection-start-column="60" selection-end-line="168" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/3/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/5/test5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/6/test6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/2/test2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/7/test7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/1/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_blind/20/4/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="73" selection-end-column="22" />
         </state>
       </provider>
     </entry>
