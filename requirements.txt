@@ -2,7 +2,7 @@ amqp==2.5.0
 billiard==3.6.0.0
 celery==4.3.0
 kombu==4.6.3
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.0
 pbr==5.3.1
 pika==1.0.1
